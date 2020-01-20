@@ -10,5 +10,3 @@ const customMap = new CustomMap('map');
 
 const userMarker = customMap.addMarker(user);
 customMap.addMarker(company);
-
-userMarker.showInfoWindow();
